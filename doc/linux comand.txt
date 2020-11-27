@@ -5,6 +5,8 @@ https://fossbytes.com/a-z-list-linux-command-line-reference/
 https://www.tecmint.com/linux-commands-cheat-sheet/
 
 
+https://anotacioneslinux.wordpress.com/2016/02/28/ver-dispositivos-usb-conectados-a-traves-de-la-terminal/
+
 Linux Commands – A
 Command					Description
 ---------------------------------------------------------------------------------------
